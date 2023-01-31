@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaiaraLN/ProyectoGit-persona1.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaiaraLN/ProyectoGit-persona1/issues"
+  },
+  "homepage": "https://github.com/NaiaraLN/ProyectoGit-persona1#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
